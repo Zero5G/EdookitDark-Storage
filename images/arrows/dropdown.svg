@@ -8,10 +8,6 @@
         </filter>
     </defs>
     <g fill="none" fill-rule="evenodd">
-        <g transform="translate(-18 -22)">
-            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
-            <use fill="rgba(0,0,0,0)" xlink:href="#b"/>
-        </g>
         <path fill="#ffffff" fill-rule="nonzero" d="M12.11.778c-1.218 0-2.327.661-3.214 1.455L.694 12.025c-.333.397-.333 1.058 0 1.455a.773.773 0 0 0 1.22 0l8.202-9.791c1.108-1.323 2.66-1.323 3.768 0l8.203 9.791a.773.773 0 0 0 1.22 0c.332-.397.332-1.058 0-1.455l-8.203-9.792C14.439 1.44 13.33.778 12.11.778z"/>
     </g>
 </svg>
